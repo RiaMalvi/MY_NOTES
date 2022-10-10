@@ -1,12 +1,22 @@
-body{
+body {
   text-align: center;
 }
-.y{
+
+.y {
   text-align: center;
 }
-.social{
+
+.social {
   margin-left: 0px;
 }
-.navbar{
-  justify-content:0%;
+
+.navbar {
+  justify-content: 0%;
+}
+
+button {
+  border: none;
+  border-radius: 50%;
+  padding: 20px;
+
 }
